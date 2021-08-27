@@ -5,3 +5,4 @@
 - 👯 I’m looking to collaborate on interesting projects 
 - ⚡ Fun fact: Bananas share about 60% of the same DNA as humans
 
+<br>[<img align="left" alt="JakeRMiller" src="https://img.shields.io/badge/JakeRMiller.com-websire-green" />](https://jakermiller.com/) 
