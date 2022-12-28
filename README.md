@@ -1,4 +1,4 @@
-### Hello world 👋
+### Whats hapnin 🤟 
 
 - 🔭 I’m currently working on email development for multiple OEMs
 - 🌱 I’m currently (still) learning javascript
