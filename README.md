@@ -5,4 +5,4 @@
 ⚡ Fun fact: Bananas share about 60% of the same DNA as humans<br>
 <p></p>
 ### Whats hapnin 🤟
-<br>[<img align="left" alt="ofJake" src="https://img.shields.io/badge/ofJake.com-website-brightgreen" />](https://JakeRMiller.com/) 
+[<img align="left" alt="ofJake" src="https://img.shields.io/badge/ofJake.com-website-brightgreen" />](https://JakeRMiller.com/) 
