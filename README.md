@@ -1,3 +1,5 @@
+[<img align="left" alt="JakeRMiller site header" src="https://raw.githubusercontent.com/ofjake/ofjake/refs/heads/main/header.png" />](https://JakeRMiller.com/) 
+
 ### Whats hapnin 🤟 
 
 - 🌱 In the habit of practicing javascript
