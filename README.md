@@ -1,5 +1,5 @@
 [<img align="left" alt="JakeRMiller site header" src="https://raw.githubusercontent.com/ofjake/ofjake/refs/heads/main/header.png" />](https://JakeRMiller.com/) 
-<p>&nbsp;</p>
+<br><br>
 🌱 In the habit of practicing javascript<br>
 👯 Collaborating on interesting projects<br>
 ⚡ Fun fact: Bananas share about 60% of the same DNA as humans<br><p>&nbsp;</p>
